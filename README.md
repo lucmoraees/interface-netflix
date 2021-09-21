@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="Logo netflix" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+   <a href="https://www.linkedin.com/in/lucas-moraes-52b80a1b3/">
+      <img alt="Lucas Moraes" src="https://img.shields.io/badge/-lucasmoraes-red?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucmoraees/interface-netflix?color=red">
+  <a href="https://github.com/lucmoraees/interface-netflix/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucmoraees/interface-netflix?color=red">
+  </a> 
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/lucmoraees/interface-netflix?color=red" />
+  <a href="https://github.com/lucmoraees/interface-netflix/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucmoraees/interface-netflix?color=red&logo=github">
+  </a>
+</p>
 
-## Available Scripts
+> :rocket: Interface do netflix desenvolvido na aula do Bonnieky Lacerda.
 
-In the project directory, you can run:
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
 
-### `yarn start`
+<div align="center">
+  <sub>Netflix project. Built with ❤︎ by
+    <a href="https://github.com/lucmoraees">Lucas Moraes</a> and
+    <a href="https://github.com/lucmoraees/app-move.it/graphs/contributors">
+      contributors
+    </a>
+  </sub>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# :pushpin: Table of Contents
+  
+* [Technologies](#computer-technologies)
+* [Features](#rocket-features)
+* [How to Run](#construction_worker-how-to-run)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2 align="left"> 📥 Layout: </h2>
+<div>
+   <img src="https://github.com/lucmoraees/interface-netflix/blob/master/public/images/netflix-1.png" width="400px">
+   <img src="https://github.com/lucmoraees/interface-netflix/blob/master/public/images/netflix-2.png" width="400px">
+</div>
 
-### `yarn test`
+# :computer: Technologies
+This project was made using the follow technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)        
 
-### `yarn build`
+# :rocket: Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Cópia da interface do netflix com o intuito de estudo.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# :construction_worker: How to run
+```bash
+# Clone Repository
+$ git clone https://github.com/lucmoraees/app-move.it.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 💻 Run Web Project
 
-### `yarn eject`
+```bash
+# Install Dependencies
+$ yarn install
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# :bug: Issues
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feel free to **file a new issue** with a respective title and description on the the [app-move.it](https://github.com/lucmoraees/interface-netflix/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-## Learn More
+# :tada: Contributing
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Here's some tips:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Check the [issues page](https://github.com/lucmoraees/interface-netflix/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
-### Code Splitting
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# :closed_book: License
 
-### Analyzing the Bundle Size
+Released in 2020 :closed_book: License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Made with love by [Lucas Moraes](https://github.com/lucmoraees) 🚀.
+This project is under the [MIT license](./LICENSE).
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if this project helped you!
