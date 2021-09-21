@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_300x300.png" alt="Move It" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+   <a href="https://www.linkedin.com/in/lucas-moraes-52b80a1b3/">
+      <img alt="Lucas Moraes" src="https://img.shields.io/badge/-lucasmoraes-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucmoraees/app-move.it?color=5863d2">
 
-## Available Scripts
+  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
+    <img src="https://img.shields.io/badge/Move.It-NLW 4-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <a href="https://github.com/lucmoraees/move.it/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucmoraees/app-move.it?color=5863d2">
+  </a> 
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/lucmoraees/app-move.it?color=5863d2" />
+  <a href="https://github.com/lucmoraees/app-move.it/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucmoraees/app-move.it?color=5863d2&logo=github">
+  </a>
+</p>
 
-In the project directory, you can run:
+> :rocket: Interface do netflix desenvolvido na aula do Bonnieky Lacerda.
 
-### `yarn start`
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
+  <sub>Netflix project. Built with ❤︎ by
+    <a href="https://github.com/lucmoraees">Lucas Moraes</a> and
+    <a href="https://github.com/lucmoraees/app-move.it/graphs/contributors">
+      contributors
+    </a>
+  </sub>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :pushpin: Table of Contents
+  
+* [Technologies](#computer-technologies)
+* [Features](#rocket-features)
+* [How to Run](#construction_worker-how-to-run)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
 
-### `yarn test`
+<h2 align="left"> 📥 Layout: </h2>
+<div>
+   <img src="https://github.com/lucmoraees/interface-netflix/blob/master/public/images/netflix-1.png" width="400px">
+   <img src="https://github.com/lucmoraees/interface-netflix/blob/master/public/images/netflix-2.png" width="400px">
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :computer: Technologies
+This project was made using the follow technologies:
 
-### `yarn build`
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)        
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :rocket: Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Cópia da interface do netflix com o intuito de estudo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# :construction_worker: How to run
+```bash
+# Clone Repository
+$ git clone https://github.com/lucmoraees/app-move.it.git
+```
 
-### `yarn eject`
+### 💻 Run Web Project
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Install Dependencies
+$ yarn install
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :bug: Issues
 
-## Learn More
+Feel free to **file a new issue** with a respective title and description on the the [app-move.it](https://github.com/lucmoraees/interface-netflix/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# :tada: Contributing
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Here's some tips:
 
-### Code Splitting
+* Check the [issues page](https://github.com/lucmoraees/interface-netflix/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-### Analyzing the Bundle Size
+# :closed_book: License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Released in 2020 :closed_book: License
 
-### Making a Progressive Web App
+Made with love by [Lucas Moraes](https://github.com/lucmoraees) 🚀.
+This project is under the [MIT license](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if this project helped you!
