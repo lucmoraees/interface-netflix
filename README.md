@@ -1,23 +1,19 @@
 <p align="center">
-   <img src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_300x300.png" alt="Move It" width="300"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="Logo netflix" width="300"/>
 </p>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/lucas-moraes-52b80a1b3/">
-      <img alt="Lucas Moraes" src="https://img.shields.io/badge/-lucasmoraes-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Lucas Moraes" src="https://img.shields.io/badge/-lucasmoraes-red?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucmoraees/app-move.it?color=5863d2">
-
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
-    <img src="https://img.shields.io/badge/Move.It-NLW 4-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
-  <a href="https://github.com/lucmoraees/move.it/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucmoraees/app-move.it?color=5863d2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucmoraees/interface-netflix?color=red">
+  <a href="https://github.com/lucmoraees/interface-netflix/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucmoraees/interface-netflix?color=red">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/lucmoraees/app-move.it?color=5863d2" />
-  <a href="https://github.com/lucmoraees/app-move.it/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucmoraees/app-move.it?color=5863d2&logo=github">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/lucmoraees/interface-netflix?color=red" />
+  <a href="https://github.com/lucmoraees/interface-netflix/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucmoraees/interface-netflix?color=red&logo=github">
   </a>
 </p>
 
